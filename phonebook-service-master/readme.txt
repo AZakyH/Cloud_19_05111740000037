@@ -1,4 +1,4 @@
-qu  menjalankan program
+menjalankan program
 ------------------------
 python3 -m venv venv
 source venv/bin/activate
